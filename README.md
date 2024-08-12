@@ -5,7 +5,7 @@
 ### configurations
 - [devices - nixos](https://github.com/malleum/nixos)
 - [editor - nixvim](https://github.com/malleum/nixvim)
-- [deprecated editor - neovim](https://github.com/malleum/neovim)
+- [deprecated editor - neovim](https://github.com/malleum/nvim)
 
 ### me
 ![technically](https://imgs.xkcd.com/comics/technically.png)
