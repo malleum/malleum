@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1728408390.44346 "./resume.tex" "resume.pdf" "resume" 1728408393.1096 0
-  "./resume.tex" 1728408388.41245 5369 eca89bf898c42e9a5c851f26a50fd2b4 ""
+["pdflatex"] 1728408736.30461 "./resume.tex" "resume.pdf" "resume" 1728408738.81167 0
+  "./resume.tex" 1728408735.35727 5272 9bc1671c60d0c935d1384f7045a562d2 ""
   "/nix/store/fz74vjq7n2wiyasi94rjg41784vzccph-texlive-2023-env/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1 5467731 78c8b9f2119e03a5ad55f01dfbc3a0f3 ""
   "/nix/store/fz74vjq7n2wiyasi94rjg41784vzccph-texlive-2023-env/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1 8221886 7f83a0c3ec6ec65ddd938527b2d66ad9 ""
   "/nix/store/fz74vjq7n2wiyasi94rjg41784vzccph-texlive-2023-env/share/texmf-var/web2c/texmf.cnf" 1 42643 9912653b7dc64840a231e02a946d5561 ""
@@ -235,10 +235,10 @@
   "/nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/tex/latex/xmpincl/xmpincl.sty" 1 2832 d498c59e94b7dfa3b4bcf74380ad6348 ""
   "altacv.cls" 1728364265.73914 15647 dd6a0d78ba5f3e06976ffe060862d88b ""
   "official.jpg" 1728404517.15168 1587958 0da5a2eb381d3c0f2583b99588903ed1 ""
-  "pdfa.xmpi" 1728408391.50241 5042 aa69ac471a41033e8acb48fa6fd788ce "pdflatex"
-  "resume.aux" 1728408392.7204 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
-  "resume.out" 1728408392.3354 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "resume.tex" 1728408388.41245 5369 eca89bf898c42e9a5c851f26a50fd2b4 ""
+  "pdfa.xmpi" 1728408737.30425 5042 b47de5d57bf146164f8bed4a9f04e54b "pdflatex"
+  "resume.aux" 1728408738.42923 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
+  "resume.out" 1728408738.06324 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "resume.tex" 1728408735.35727 5272 9bc1671c60d0c935d1384f7045a562d2 ""
   (generated)
   "pdfa.xmpi"
   "resume.aux"

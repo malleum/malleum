@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/nixos.org) (preloaded format=pdflatex 1980.1.1)  8 OCT 2024 13:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/nixos.org) (preloaded format=pdflatex 1980.1.1)  8 OCT 2024 13:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1103,9 +1103,9 @@ Package hyperref Info: Link coloring OFF on input line 69.
 \c@mv@tabular=\count327
 \c@mv@boldtabular=\count328
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 85.
+(Font)              scaled to size 24.88pt on input line 83.
 LaTeX Font Info:    Trying to load font information for T1+RobotoSlab-TLF on in
-put line 85.
+put line 83.
 
 (/nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/tex/lat
 ex/roboto/T1RobotoSlab-TLF.fd
@@ -1113,93 +1113,88 @@ File: T1RobotoSlab-TLF.fd 2019/12/11 (autoinst) Font definitions for T1/RobotoS
 lab-TLF.
 )
 LaTeX Font Info:    Font shape `T1/RobotoSlab-TLF/m/n' aliased to
-(Font)              `T1/RobotoSlab-TLF/regular/n' on input line 85.
+(Font)              `T1/RobotoSlab-TLF/regular/n' on input line 83.
 LaTeX Font Info:    Font shape `T1/RobotoSlab-TLF/b/n' aliased to
-(Font)              `T1/RobotoSlab-TLF/bold/n' on input line 85.
+(Font)              `T1/RobotoSlab-TLF/bold/n' on input line 83.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 85.
+(Font)              scaled to size 12.0pt on input line 83.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 85.
+(Font)              scaled to size 12.0pt on input line 83.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 85.
+(Font)              scaled to size 8.0pt on input line 83.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on i
-nput line 85.
+nput line 83.
 
 (/nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/tex/lat
 ex/fontawesome5/ufontawesomefree0.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 85.
+nput line 83.
 
 (/nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/tex/lat
 ex/fontawesome5/ufontawesomefree2.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 85.
+nput line 83.
 
 (/nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/tex/lat
 ex/fontawesome5/ufontawesomefree1.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 85.
+ input line 83.
 
 (/nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/tex/lat
 ex/fontawesome5/ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <8> not a
 vailable
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 85.
+n input line 83.
 
-Underfull \hbox (badness 4543) in paragraph at lines 85--85
+Underfull \hbox (badness 2846) in paragraph at lines 83--83
 [][] [] [] [] 
  []
 
 <<ot1.cmap>><<oml.cmap>><<oms.cmap>>
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <7> on input line 85.
+(Font)              <7> on input line 83.
 <<omx.cmap>>
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <5> on input line 85.
-<official.jpg, id=20, 979.9812pt x 919.7562pt>
+(Font)              <5> on input line 83.
+<official.jpg, id=19, 979.9812pt x 919.7562pt>
 File: official.jpg Graphic file (type jpg)
 <use official.jpg>
-Package pdftex.def Info: official.jpg  used on input line 85.
+Package pdftex.def Info: official.jpg  used on input line 83.
 (pdftex.def)             Requested size: 979.9788pt x 919.75395pt.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 93.
+(Font)              scaled to size 17.28pt on input line 91.
 LaTeX Font Info:    Font shape `T1/RobotoSlab-TLF/m/n' aliased to
-(Font)              `T1/RobotoSlab-TLF/regular/n' on input line 93.
+(Font)              `T1/RobotoSlab-TLF/regular/n' on input line 91.
 LaTeX Font Info:    Font shape `T1/RobotoSlab-TLF/b/n' aliased to
-(Font)              `T1/RobotoSlab-TLF/bold/n' on input line 93.
+(Font)              `T1/RobotoSlab-TLF/bold/n' on input line 91.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 95.
+(Font)              scaled to size 10.0pt on input line 93.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 95.
+(Font)              scaled to size 9.0pt on input line 93.
 LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input l
-ine 97.
+ine 95.
 
 (/nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/tex/lat
 ex/lato/TS1lato-TLF.fd
 File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 97.
+(Font)              scaled to size 9.0pt on input line 95.
 
 (/nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/tex/lat
 ex/fontawesome5/ufontawesomefree3.fd)
-Overfull \hbox (1.59999pt too wide) in paragraph at lines 140--140
+Overfull \hbox (1.59999pt too wide) in paragraph at lines 139--139
 []|[]| 
  []
 
 
-Overfull \hbox (1.59999pt too wide) in paragraph at lines 144--144
-[]|[]| 
- []
-
-
-Overfull \hbox (1.59999pt too wide) in paragraph at lines 148--148
+Overfull \hbox (1.59999pt too wide) in paragraph at lines 143--143
 []|[]| 
  []
 
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 192.
+(Font)              scaled to size 9.0pt on input line 187.
 [1
 
 {/nix/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/fonts/e
@@ -1224,7 +1219,7 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 Here is how much of TeX's memory you used:
  36109 strings out of 474116
  739420 string characters out of 5720541
- 1971187 words of memory out of 5000000
+ 1969187 words of memory out of 5000000
  57869 multiletter control sequences out of 15000+600000
  804068 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1239,9 +1234,9 @@ onts/type1/typoland/lato/Lato-Bold.pfb></nix/store/mmg1gc10y64nnrd54csm1w1xpq3h
 wkm8-texlive-2023-env-texmfdist/fonts/type1/typoland/lato/Lato-Regular.pfb></ni
 x/store/mmg1gc10y64nnrd54csm1w1xpq3hwkm8-texlive-2023-env-texmfdist/fonts/type1
 /google/roboto/RobotoSlab-Bold.pfb>
-Output written on resume.pdf (1 page, 1739678 bytes).
+Output written on resume.pdf (1 page, 1738929 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
+ 78 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
  50 words of extra memory for PDF output out of 10000 (max. 10000000)
 
